@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=9jqFq3muxRU&ab_channel=ProgramadorLhama
 ![](arquitetura.PNG)
 
 Drivers - Condutores/Bibliotecas externas para realizar a extração dos dados.
-* Deve ser dinâmica, ou seja, terei a flexibilidade para trocar de bibliotecas, ou seja, a bibloteca não deve estar amarrada ao meu código.
+* Deve ser dinâmica, ou seja, terei a flexibilidade para trocar de bibliotecas, ou seja, a biblioteca não deve estar amarrada ao meu código.
 
 Contrato - Tipo de formatação que o dado deve assumir.
 * Os estágios se comunicam atráves de um contrato. Eu sei como o dado deve sair de um estágio e sei como ele deve chegar em outro estágio.
